@@ -1,6 +1,6 @@
 {
-  "name": "@gcc/autobahn-eslint-config",
-  "version": "1.0.3",
+  "name": "@gcc/eslint-config-autobahn",
+  "version": "1.0.4",
   "description": "Shared ESLint config for Autobahn projects",
   "main": "index.js",
   "scripts": {
